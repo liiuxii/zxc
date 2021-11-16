@@ -1,5 +1,6 @@
 <?php 
 ////////////////
+/**
 $realm = 'leinzzy\'s house';
 //user => password
 $users = array(
@@ -43,7 +44,7 @@ function http_digest_parse($txt)
     }
     return $needed_parts ? false : $data;
 }
-
+*/
 ////////////////
 if (!function_exists("getmicrotime"))
 {
