@@ -1,6 +1,6 @@
 
-# liiuxii 💕
-* the webshell i use
+# weebspace
+* shell list
 
 * P.A.S Fork [PaS]
 * Gel4y shell [g4y]
