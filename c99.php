@@ -1,3 +1,4 @@
+
 <?php 
 ////////////////
 /**
@@ -58,7 +59,7 @@ error_reporting(5);
 @ignore_user_abort(true);
 $win = strtolower(substr(PHP_OS, 0, 3)) == "win";
 define("starttime", getmicrotime());
-if (get_magic_quotes_gpc())
+if(!function_exists('get_magic_quotes_gpc') || get_magic_quotes_gpc())
 {
     if (!function_exists("strips"))
     {

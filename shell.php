@@ -30,9 +30,9 @@ if(!empty($_SERVER['HTTP_USER_AGENT'])) {
 @ini_set('output_buffering',0); 
 @ini_set('display_errors', 0);
 @set_time_limit(0); 
-@set_magic_quotes_runtime(0); 
+//@set_magic_quotes_runtime(0); 
 @define('VERSION', '2.1'); 
-if( get_magic_quotes_gpc() ) { 
+if(!function_exists('get_magic_quotes_gpc') || get_magic_quotes_gpc()) {
     function stripslashes_array($array) { 
         return is_array($array) ? array_map('stripslashes_array', $array) : stripslashes($array); 
     } 
